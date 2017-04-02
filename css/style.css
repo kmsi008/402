@@ -1,0 +1,16 @@
+body{
+	background: url(../images/lol.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 52px;
+    margin: 29px;
+}
+
+.row {
+    margin-right: 315px;
+    margin-left: 132px;
+}
+h4, .h4 {
+    font-size: 31px;
+    color: black;
+}
